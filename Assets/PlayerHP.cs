@@ -52,7 +52,7 @@ public class PlayerHP : MonoBehaviour
     else
     {
       hurtSound.PlayOneShot(hurtClip);
-      an.SetTrigger("Hurt");
+      
       StartCoroutine(FlashRed());
     }
   }
@@ -71,7 +71,7 @@ public class PlayerHP : MonoBehaviour
     }
     else
     {
-      an.SetTrigger("Hurt");
+      
       StartCoroutine(FlashRed());
     }
   }
