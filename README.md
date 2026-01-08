@@ -1,5 +1,5 @@
 # Assignment4_CPSC386
-Hi there! check out my action styled side-scrolling/platforming game that I made as an assignment for a unity class. Along with standard enemies and obstacles, it also features two levels, both having their own bosse at the end. Navigate to Releases and select the windows or mac version of the game to download. Hope you Enjoy!
+Hi there! check out my action styled side-scrolling/platforming game that I created for a game assignment in unity class. Along with standard enemies and obstacles, it also features two levels, both having their own bosse at the end. Navigate to Releases and select the windows or mac version of the game to download. Hope you Enjoy!
 
 
 Note: Interested in some of the assets used in this project? Check out Credits.md where all of the assets and their creators can be found!
